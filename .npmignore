@@ -1,0 +1,27 @@
+# 源代码
+src/
+playground/
+examples/
+test/
+
+# 配置文件
+.github/
+.vscode/
+.prettierrc
+.prettierignore
+eslint.config.ts
+rollup.config.js
+rsbuild.config.ts
+tsconfig.json
+jest.config.js
+
+# 开发相关
+coverage/
+node_modules/
+.next/
+.rollup.cache/
+
+# 其他文件
+*.log
+.DS_Store
+.env*

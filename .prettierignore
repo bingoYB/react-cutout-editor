@@ -1,0 +1,9 @@
+dist
+coverage
+html
+public
+node_modules
+*.yaml
+pnpm-lock.yaml
+.next
+README.md
