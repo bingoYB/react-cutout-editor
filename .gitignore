@@ -42,3 +42,4 @@ next-env.d.ts
 
 **/target/**
 /.rollup.cache/
+dist

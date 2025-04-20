@@ -6,7 +6,7 @@ A React component for image cutout and editing. Supports manual brush selection,
 
 [![npm version](https://img.shields.io/npm/v/react-cutout-editor.svg)](https://www.npmjs.com/package/react-cutout-editor)
 [![npm bundle size](https://img.shields.io/bundlephobia/minzip/react-cutout-editor)](https://bundlephobia.com/package/react-cutout-editor)
-[![Coverage Status](https://coveralls.io/repos/github/yourusername/react-cutout-editor/badge.svg)](https://coveralls.io/github/bingoYB/react-cutout-editor)
+[![Coverage Status](https://coveralls.io/repos/github/bingoYB/react-cutout-editor/badge.svg?branch=main)](https://coveralls.io/github/bingoYB/react-cutout-editor?branch=main)
 [![React Version](https://img.shields.io/badge/react-%3E=16.8.0-61dafb.svg)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
