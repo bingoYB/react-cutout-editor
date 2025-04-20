@@ -7,4 +7,7 @@ export default defineConfig({
     base: '/custom-demo/',
     port: 3001,
   },
+  output: {
+    assetPrefix: 'https://bingoyb.github.io/custom-demo/',
+  },
 });
