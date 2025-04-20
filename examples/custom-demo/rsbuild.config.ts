@@ -8,6 +8,6 @@ export default defineConfig({
     port: 3001,
   },
   output: {
-    assetPrefix: 'https://bingoyb.github.io/custom-demo/',
+    assetPrefix: 'https://bingoyb.github.io/react-cutout-editor/custom-demo/',
   },
 });
