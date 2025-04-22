@@ -4,6 +4,9 @@
 
 A React component for image cutout and editing. Supports manual brush selection, eraser, zoom, drag and other features.
 
+在线体验地址: https://bingoyb.github.io/react-cutout-editor/custom-demo/
+示例代码: https://github.com/bingoYB/react-cutout-editor/tree/dev/examples/custom-demo
+
 [![npm version](https://img.shields.io/npm/v/react-cutout-editor.svg)](https://www.npmjs.com/package/react-cutout-editor)
 [![npm bundle size](https://img.shields.io/bundlephobia/minzip/react-cutout-editor)](https://bundlephobia.com/package/react-cutout-editor)
 [![Coverage Status](https://coveralls.io/repos/github/bingoYB/react-cutout-editor/badge.svg?branch=main)](https://coveralls.io/github/bingoYB/react-cutout-editor?branch=main)
@@ -106,6 +109,7 @@ function App() {
 ```
 
 #### 自定义编辑器功能区域 Custom Editor Controls
+示例: https://bingoyb.github.io/react-cutout-editor/custom-demo/
 
 ```jsx
 import { ImageEditor, EditorContextProvider, useEditorContext } from 'react-cutout-editor';
@@ -157,7 +161,7 @@ function App() {
 | onFrameSelected | (start: IPosition, end: IPosition) => void | - | 框选区域时的回调函数 Callback when area is selected |
 | isMaskFn | (r: number, g: number, b: number, a: number) => boolean | - | 自定义判断 mask 图片是否是遮罩部分的函数 Custom function to determine if a pixel is part of the mask |
 | classname | string | - | 自定义容器类名 Custom container class name |
-| height | number\|string | - | 容器高度 Container height |
+| height | number|string | - | 容器高度 Container height |
 
 ## Context API
 

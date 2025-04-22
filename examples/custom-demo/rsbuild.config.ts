@@ -10,4 +10,8 @@ export default defineConfig({
   output: {
     assetPrefix: 'https://bingoyb.github.io/react-cutout-editor/custom-demo/',
   },
+  html: {
+    title: 'React Cutout Editor Custom Demo',
+    favicon: './assets/icon.png',
+  },
 });
