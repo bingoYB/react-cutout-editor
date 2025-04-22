@@ -5,6 +5,7 @@
 A React component for image cutout and editing. Supports manual brush selection, eraser, zoom, drag and other features.
 
 在线体验地址: https://bingoyb.github.io/react-cutout-editor/custom-demo/
+
 示例代码: https://github.com/bingoYB/react-cutout-editor/tree/dev/examples/custom-demo
 
 [![npm version](https://img.shields.io/npm/v/react-cutout-editor.svg)](https://www.npmjs.com/package/react-cutout-editor)
